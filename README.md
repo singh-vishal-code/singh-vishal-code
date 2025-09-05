@@ -9,6 +9,11 @@
 </p>
 
 ---
+ <h1>
+    👋 Hey there, I’m <span style="color:#2563eb;">Vishal Singh</span>!
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+  </h1>
+<img width="621" height="74" alt="image" src="https://github.com/user-attachments/assets/047d1e1d-c598-4171-bfd2-1f736c10856d" />
 
 ## 🚀 About Me
 - 🎓 Master’s in **Economics at IIT Kanpur**
