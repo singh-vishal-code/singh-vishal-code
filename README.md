@@ -15,7 +15,7 @@
 -  Love crunching numbers with **Python, SQL, MATLAB**
 -  Skilled in **time series, portfolio optimization, and risk modeling**
 -  Research: **Macroeconomic dynamics, financial risk, development economics**
--  Volunteer: From **campus runs 🏃** to **cleanliness drives 🌱**
+-  Volunteer: From **campus runs** to **cleanliness drives**
 
 ---
 
